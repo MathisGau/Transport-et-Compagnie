@@ -74,8 +74,5 @@
     <div id="Partenaires">
 
     </div>
-    <div>
-        
-    </div>
 </body>
 </html>
