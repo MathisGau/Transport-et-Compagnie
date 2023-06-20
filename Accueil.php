@@ -68,7 +68,12 @@
     </div>
 
     <div id="Avis">
-
+        <div id="titre_avis" class ="titre" >Vos Avis</div>
+        <div id="espace_commentaire">
+            <div id="avis1" class="case_avis">Trop bien</div>
+            <div id="avis2" class="case_avis">Tres bonne qualité</div>
+            <div id="avis3" class="case_avis">Au top !</div>
+        </div>
     </div>
 
     <div id="Partenaires">
