@@ -11,7 +11,7 @@
 <body>
     <div id="entete">
         <?php include './Elements/Header.php'; ?>
-        <p id="slogan" class="titre overlay">PRENONS LA<br>ROUTE <br>ENSEMBLE...</p>
+        <p id="slogan" class="titre overlay">PRENONS LA ROUTE ENSEMBLE...</p>
         <img id="LOGO_entete" class="overlay" src="./Images/LOGO_BLANC.png" alt="Transport et Compagnie">
     </div>
 
