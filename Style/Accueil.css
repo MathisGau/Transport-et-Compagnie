@@ -27,7 +27,7 @@ body{
     justify-content: space-around;
     position: absolute; /*Fixed si barre de nav toujours afficher*/
     top: 0;
-    margin: 1% 0% 0% 0%;
+    margin: 1.5% 0% 0% 0%;
 }
 
 .nav_button{
@@ -88,7 +88,7 @@ body{
 
 #slogan{
     font-size: 4.2rem;
-    width: 26%;
+    width: 26vw;
     color: white;
     margin: 0rem 0rem 2rem 3rem;
     bottom: 0;
